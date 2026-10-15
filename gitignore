@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Model files and data (kept on Google Drive, not in the repo)
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+data/
+
+# OS / editor
+.DS_Store
+.vscode/
