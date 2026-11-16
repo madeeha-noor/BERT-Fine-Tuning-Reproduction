@@ -6,7 +6,7 @@ Group G03, CS-320 project P09 (BERT). Every member implements one component of t
 |---|---|---|---|---|
 | Areeba Zahra (Team Lead) | | | | |
 | Madeeha Noor | | | | |
-| Qudsia Batool | | | | |
+| Qudsia Batool | Data lead | BERT embeddings layer | | SST-2 Dataset/DataLoader |
 
 Roles to choose from: paper lead (architecture and reproduction), data lead (datasets, shapes, evaluation), experiments lead (ablations, demo, report).
 
@@ -14,4 +14,4 @@ Roles to choose from: paper lead (architecture and reproduction), data lead (dat
 
 | Date | Member | What was done |
 |---|---|---|
-| | | |
+| 16/NOV/2026 | Qudsia Batool | Own SST-2 Dataset/DataLoader and BERT embeddings layers  |
