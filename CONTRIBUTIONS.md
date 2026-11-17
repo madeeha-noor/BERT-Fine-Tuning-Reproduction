@@ -15,3 +15,4 @@ Roles to choose from: paper lead (architecture and reproduction), data lead (dat
 | Date | Member | What was done |
 |---|---|---|
 | 16/NOV/2026 | Qudsia Batool | Own SST-2 Dataset/DataLoader and BERT embeddings layers  |
+| 17/NOV/2026 | Qudsia Batool | SST-2 reproduction run (93.12% vs paper 93.5%) |
